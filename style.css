@@ -1,9 +1,9 @@
 body {
   font-family: 'Segoe UI', sans-serif;
-  background-color: #f0e6f6;
+  background-color: #e8fffd;
   padding: 30px 10px;
   margin: 0;
-  color: #333;
+  color: #333333;
 }
 
 h1 {
@@ -36,7 +36,7 @@ h1 {
 .semestre h2 {
   font-size: 0.95em;
   margin-bottom: 12px;
-  color: #4b2e60;
+  color: #2e3360;
   border-bottom: 1px solid #ccc;
   padding-bottom: 4px;
   text-align: center;
